@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-10-17T09:25:12.677Z
-# Size: 3437
+# Last Updated: 2026-10-18T09:40:20.755Z
+# Size: 3443
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:v5D3Xv5026nrwpuT_7wuhRPyR1vKaAF0BOJpUjxF6gc$
+# $content-hash-v1$:ZGMxqG0tHBpu7hrtgalTbNRw09Fu2YJ-PJQVJRe6DxA$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -95,6 +95,7 @@ st.ruinet.work
 st1.ligtel.com
 str.seyfert.in
 test.intred.it
+de.riospeed.com
 istanbul.sth.tr
 ld1.vayutel.net
 lg-ffm.aeza.net
@@ -2676,6 +2677,10 @@ miaspeedtest.blackburn-pr.com
 mum-speedtest.sanghviinfo.com
 netservice01.ber01.lwlcom.net
 ntp-speedtest.homeplus.net.tw
+ookla-dc3.services.proxad.net
+ookla-dc5.services.proxad.net
+ookla-lyo.services.proxad.net
+ookla-mrs.services.proxad.net
 ookla-toronto.aerioncloud.com
 sea-speedtest.net.sangoma.net
 sgp-speedtest.limtechlabs.top
@@ -3194,6 +3199,7 @@ velocidade.netshowtelecom.com.br
 velocidade.phinfortelecom.com.br
 velocidade.webzoomtelecom.com.br
 velocimetro.speednetworks.com.br
+yyc-speedtest.xeronetworks.co.uk
 btlr-speedtest-02.brightspeed.com
 buft-speedtest-02.brightspeed.com
 chvl-speedtest-02.brightspeed.com
