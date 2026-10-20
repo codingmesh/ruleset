@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-10-19T10:49:19.115Z
-# Size: 3444
+# Last Updated: 2026-10-20T10:07:16.690Z
+# Size: 3446
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:P2amKZXBicjy7dcSbh0-FFLNBpPJtm09ibkoNgFwWyM$
+# $content-hash-v1$:I4UcGSjAmDoDiIPRCB1UhElNqsyjJL1yJs3uBD4Efd0$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -1600,6 +1600,7 @@ stmarkham.netcrawler.ca
 storillia.netcrawler.ca
 stvaughan.netcrawler.ca
 stwibermad.mismenet.net
+syd.speedtest.pttnz.net
 test.beamtelecom.com.br
 +.test.gslnetworks.com.au
 testdebit.regivision.fr
@@ -3119,6 +3120,7 @@ pri-r450-speedtest.metrocomm.com
 puteaux3.d2m.c2d.liveservices.fr
 qoeookla-mimi-01.sys.comcast.net
 qoeookla-ncst-01.sys.comcast.net
+qoeookla-rmnd-01.sys.comcast.net
 ran-r450-speedtest.metrocomm.com
 reunion3.d2m.c2d.liveservices.fr
 sam1speedtest.turktelekom.com.tr
