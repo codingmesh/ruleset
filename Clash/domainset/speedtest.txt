@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-10-23T10:07:37.311Z
-# Size: 3451
+# Last Updated: 2026-10-24T09:34:47.137Z
+# Size: 3453
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:FcwIqpKQ5UBKlIdB8-BaxbjTnCkbl9Grm-28wKwVHXM$
+# $content-hash-v1$:Q1kuRNgMMt-CcMueqdFoUUNcnPEQhdsJfmGotFHgZaY$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -2749,6 +2749,7 @@ speedtest.naturalwireless.com
 speedtest.netgotelecom.com.br
 speedtest.nexinternett.com.br
 speedtest.nl-ams.as210558.net
+speedtest.onetouchexpress.com
 speedtest.ord1.hivelocity.net
 speedtest.pa10.fdcservers.net
 speedtest.parishbroadband.com
@@ -3361,6 +3362,7 @@ duliajan-speedtest.arrowebonline.com
 ookla-autazes.amazoniasat-isp.com.br
 santaclara-speedtest.utopiafiber.com
 speedtest-ist-34-node.netzone.com.tr
+speedtest-lenexa.resoundnetworks.com
 speedtest-london-east.vodafone.co.uk
 speedtest-losangeles.ripplefiber.com
 speedtest-marseille-10g.emtelnet.com
