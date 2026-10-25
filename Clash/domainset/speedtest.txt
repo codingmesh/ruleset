@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-10-24T09:34:47.137Z
-# Size: 3453
+# Last Updated: 2026-10-25T09:50:52.352Z
+# Size: 3457
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:Q1kuRNgMMt-CcMueqdFoUUNcnPEQhdsJfmGotFHgZaY$
+# $content-hash-v1$:dK_5FPn2gmxuwFEs8hDVMaMES1w_sdV8e5JhorwdLig$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -240,6 +240,7 @@ speed1.wiatel.net
 speed10.aitspl.in
 speed2.dg-sys.net
 speedapi.race.com
+speedbng.n-tel.in
 speedkle.htspl.in
 speedmum.n-tel.in
 speedtest.23m.com
@@ -1277,6 +1278,7 @@ speedtest.techminds.ca
 speedtest.telemaxx.net
 speedtest.telmekom.net
 speedtest.three.com.hk
+speedtest.thyrakles.de
 speedtest.tirolnet.com
 speedtest.toros.edu.tr
 speedtest.tri-cogo.com
@@ -1876,6 +1878,7 @@ spd-100g-ookla.stelogy.io
 spdgnet.gnetserver.com.br
 speed-br2.gigacomm.net.au
 speed-mel.gigacomm.net.au
+speed-pd.dispaisy.systems
 speed-syd.gigacomm.net.au
 speed.airmaxbroadband.com
 speed.newmarket.telmax.ca
@@ -2488,6 +2491,7 @@ mia-speedtest.northstate.net
 myspeedtest.atcbroadband.com
 ookla-mispeed.rackgenius.com
 ookla.amazoniasat-isp.com.br
+ookla.lodestarnetworks.co.uk
 ookla.playmaisreverso.net.br
 ookla.siditelecom-isp.com.br
 ooklatins.redeconexaonet.com
