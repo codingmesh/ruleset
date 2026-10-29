@@ -4,7 +4,7 @@
     {
       "source": "Telegram MTProto help.getConfig (normalized public configuration)",
       "role": "dynamic",
-      "sha256": "be26532a3fe6e197d2cdf04681be126034465132065738d23b80e074f125f449"
+      "sha256": "ebb2a5358991c4ff4b832529187b695b93d5754a2d0986ebf2d48cd3c7733ae0"
     },
     {
       "source": "Telegram signed backup endpoints (production and test)",
@@ -20,19 +20,19 @@
       "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/exceptions.txt",
       "role": "dynamic",
       "sha256": "1125d9f61b4f3f34e2846db4ce92a1d5fa2698526e4905b4a6cbd905720ebb3f",
-      "lastModified": "Wed, 28 Oct 2026 10:11:42 GMT"
+      "lastModified": "Thu, 29 Oct 2026 10:11:47 GMT"
     },
     {
       "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/exclusions.txt",
       "role": "dynamic",
       "sha256": "7554ea0743a448ea1922a3137b24214b241f4131c26a8642a1ad7b231889ceaf",
-      "lastModified": "Wed, 28 Oct 2026 10:11:42 GMT"
+      "lastModified": "Thu, 29 Oct 2026 10:11:47 GMT"
     },
     {
       "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
       "role": "dynamic",
-      "sha256": "50690f3e8f93e8520800f4bdc876fbc347c8efc919e4c0cceac1741b13ca6d0e",
-      "lastModified": "Wed, 28 Oct 2026 10:11:42 GMT"
+      "sha256": "8592747be229e3729ba119bb7fdf0c0488e2a79707b83fde672505f596cdc907",
+      "lastModified": "Thu, 29 Oct 2026 10:11:47 GMT"
     },
     {
       "source": "https://cdn.jsdelivr.net/gh/AdguardTeam/cname-trackers@master/data/combined_disguised_ads_justdomains.txt",
@@ -52,7 +52,7 @@
     {
       "source": "https://cdn.jsdelivr.net/gh/DandelionSprout/adfilt@master/GameConsoleAdblockList.txt",
       "role": "dynamic",
-      "sha256": "7616d81053e00feba0d9897b399f3b17be102a94f976befd3950a882d4452d7a"
+      "sha256": "2414f8594479c71a61b390ed72664ddae30632b82cf26bf2591ffad965bddec3"
     },
     {
       "source": "https://cdn.jsdelivr.net/gh/felixonmars/dnsmasq-china-list@master/bogus-nxdomain.china.conf",
@@ -253,50 +253,50 @@
     {
       "source": "https://easylist-downloads.adblockplus.org/antiadblockfilters.txt",
       "role": "dynamic",
-      "sha256": "4f4e688d4fe221df9abedeb7e484ed60d4e2573ff61e2c9481b06a8f43b380bd",
-      "lastModified": "Wed, 28 Oct 2026 11:16:39 GMT"
+      "sha256": "16c8ebc0ed4381afe3c156222ccbfc7a71a09c23fc282633c3dee087f770e6e8",
+      "lastModified": "Thu, 29 Oct 2026 11:26:33 GMT"
     },
     {
       "source": "https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt",
       "role": "dynamic",
-      "sha256": "1bf4fb66835b8381fc10eb3d1efcc6df0730f946afba6124d96927bcfd69456a",
-      "lastModified": "Wed, 28 Oct 2026 10:57:57 GMT"
+      "sha256": "3e6d1fa8512ce039d02b693cfbccbed85278ebb3443cf537fffb87feca889b5e",
+      "lastModified": "Thu, 29 Oct 2026 10:50:56 GMT"
     },
     {
       "source": "https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt",
       "role": "dynamic",
-      "sha256": "742d64b653645910e56e85bc1d371d5abb703791d98b85b37642201959947535",
-      "lastModified": "Wed, 28 Oct 2026 10:57:59 GMT"
+      "sha256": "65847e1a27190f12e56fc6f4be7d529c49e5597d5e9d9c6b3cee36242bd79d77",
+      "lastModified": "Thu, 29 Oct 2026 10:50:57 GMT"
     },
     {
       "source": "https://filters.adtidy.org/extension/ublock/filters/224_optimized.txt",
       "role": "dynamic",
-      "sha256": "b41c85ad9ca2180dd2b1fa04fae565ad1e9055b202715ba8f8caec9c6ece1b22",
-      "lastModified": "Wed, 28 Oct 2026 10:57:58 GMT"
+      "sha256": "45c10d8ccc6220c65a2156b3472cac417120151b717aaaf3cb72bf645a4c6c28",
+      "lastModified": "Thu, 29 Oct 2026 10:50:56 GMT"
     },
     {
       "source": "https://filters.adtidy.org/extension/ublock/filters/250_optimized.txt",
       "role": "dynamic",
-      "sha256": "d694cca31c85f8a21be25978c627f6462890344a09f729c641afaa1a7cafdb9f",
-      "lastModified": "Wed, 28 Oct 2026 10:57:57 GMT"
+      "sha256": "f3ffff64be29f97d7060a38c58d348a2808ea45fd12560fea2968881b5ca50c8",
+      "lastModified": "Thu, 29 Oct 2026 10:50:55 GMT"
     },
     {
       "source": "https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt",
       "role": "dynamic",
-      "sha256": "9b1572209a09bd7d3346588b77b9f7224d1ae7e726f1ce18b77e4dda91e51d2f",
-      "lastModified": "Wed, 28 Oct 2026 10:57:58 GMT"
+      "sha256": "ee15e8834aad68ec637654dcea9754ea7a0f77760f518a67432e79305a5ba987",
+      "lastModified": "Thu, 29 Oct 2026 10:50:58 GMT"
     },
     {
       "source": "https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt",
       "role": "dynamic",
-      "sha256": "54eac926df16b0a9dfc5a4a78583c7958f5c29302dffb81e0178b5f9b5b1eb1a",
-      "lastModified": "Wed, 28 Oct 2026 10:58:02 GMT"
+      "sha256": "51c0e60e05d93b360054457049d839c007d5125dbccb8ec226ad89a1334d0ac2",
+      "lastModified": "Thu, 29 Oct 2026 10:51:04 GMT"
     },
     {
       "source": "https://filters.adtidy.org/extension/ublock/filters/7_optimized.txt",
       "role": "dynamic",
-      "sha256": "2a58c91a3843663ac253e9c5c35d6556187f992fcf73ee44e62cb11fd6a971ba",
-      "lastModified": "Wed, 28 Oct 2026 10:57:59 GMT"
+      "sha256": "44a1c85af255a33fde8d6f789ca318f9841f57b1d335a1de710f1308f5c14c8c",
+      "lastModified": "Thu, 29 Oct 2026 10:50:57 GMT"
     },
     {
       "source": "https://firestore.googleapis.com/v1/projects/reserve-5a846/databases/(default)/documents/ipconfig/v3",
@@ -317,8 +317,8 @@
     {
       "source": "https://phishing.army/download/phishing_army_blocklist.txt",
       "role": "dynamic",
-      "sha256": "2cb4799dda5de15e9a348205d92a1739af92cc46e7d0ecab6f8d1c14585ab0f2",
-      "lastModified": "Wed, 28 Oct 2026 11:00:33 GMT"
+      "sha256": "c6185d08867b16f7320846733fc613fe6549284fd748710baef593bc62279550",
+      "lastModified": "Thu, 29 Oct 2026 11:01:15 GMT"
     },
     {
       "source": "https://proxy.cdn.skk.moe/https/someonewhocares.org/hosts/zero/hosts",
@@ -345,17 +345,17 @@
     {
       "source": "https://raw.githubusercontent.com/durablenapkin/scamblocklist/master/hosts.txt",
       "role": "dynamic",
-      "sha256": "c7a58224f2f1d6083c1531e7f632102be7d4ae43f32cac529e183277a8621f84"
+      "sha256": "b3dd0fd14e3658fff67ab95bfd98ed2242af97b561c8f0116dde2b56309381e0"
     },
     {
       "source": "https://raw.githubusercontent.com/easylist/easylist/gh-pages/easyprivacy.txt",
       "role": "dynamic",
-      "sha256": "b39b8c027244ff9882be1f212d0acb285fede2267f85e1f48419a236466e846e"
+      "sha256": "2463ae533119d63ca4fc7d5c0b8c2afac934047c01ef1815a15c6a7a59694675"
     },
     {
       "source": "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/accelerated-domains.china.conf",
       "role": "dynamic",
-      "sha256": "a49ef80241e832c9e9ebfa26c2309c80fec21c19bcfa3fc9e540cd0fd00301ba"
+      "sha256": "4c27cf55992e762bed006f08a772a91936ffe862f6de33eb6149cbef0b444167"
     },
     {
       "source": "https://raw.githubusercontent.com/felixonmars/dnsmasq-china-list/master/apple.china.conf",
@@ -380,47 +380,47 @@
     {
       "source": "https://speedtest-net-servers.cdn.skk.moe/servers.json",
       "role": "dynamic",
-      "sha256": "38189068d0c8e8c2a68e0623d6b85c4ad3b8dc8a90d56fd5fd7080e2dd2d1c5c"
+      "sha256": "5d726bb3678732611604eaa4caef4047aa758d0ca26db906ad1d431a165b817c"
     },
     {
       "source": "https://ublockorigin.pages.dev/filters/annoyances.min.txt",
       "role": "dynamic",
-      "sha256": "0fb8d5af28eb5379118e771f9163df7344fe872953ce3c79d62a0abaebe75580"
+      "sha256": "7450e972ec3cf28f7c1a51a7005b683b73aafa27e1d31853a4224f4e75c2f4d3"
     },
     {
       "source": "https://ublockorigin.pages.dev/filters/badware.min.txt",
       "role": "dynamic",
-      "sha256": "3e97ccbb6165d94a4b4b893f21856af4fbdc91b09d24c723361b79784029dc11"
+      "sha256": "bf6126a6a47835861669a9ecd023217f9fc4371c83cb0a05327e42036dfe4b67"
     },
     {
       "source": "https://ublockorigin.pages.dev/filters/filters.min.txt",
       "role": "dynamic",
-      "sha256": "d784dea3163ed38c359fad9cf868f0b1884aa193ddc3b84fe478f7ecd964e64d"
+      "sha256": "f8e579bb4b075e111ac2df88097a2ed69a373e04a004a29bb1a58d174a981221"
     },
     {
       "source": "https://ublockorigin.pages.dev/filters/privacy.min.txt",
       "role": "dynamic",
-      "sha256": "d0fe15edabed6976d104ec2496fdc685e89e6881abb1090cbe69514a111ea31c"
+      "sha256": "6ba4f5966a6a7539de1ac163862cc514bf2aed5595c39da9ce88a257d29c0f1a"
     },
     {
       "source": "https://ublockorigin.pages.dev/filters/unbreak.min.txt",
       "role": "dynamic",
-      "sha256": "095d9ab15deb074552a5d558f26bfb5ce0165b120a77448f6588d51b84ba7819"
+      "sha256": "68e129475b5d212790fd7036eaca40a6184bb86bc61f172218d78f17171167b0"
     },
     {
       "source": "https://ublockorigin.pages.dev/thirdparties/easylist-annoyances.txt",
       "role": "dynamic",
-      "sha256": "6440ee9ee9e8b547e42eafa934d18b5407dd723b0de801caafb8642a4bc7ad32"
+      "sha256": "0bb96b1cfc4f1d8764592ca74d900a6f8ecc27b87c103dbabf8477069334218c"
     },
     {
       "source": "https://ublockorigin.pages.dev/thirdparties/easylist-cookies.txt",
       "role": "dynamic",
-      "sha256": "1b2d284992917591c9694e435dbde80cb89faed2213e345ff294e85e7157d7cf"
+      "sha256": "770c96d0d0d7bc0f0ba73b6c27847cc6d26058c109f7540a4343a1ece036be8a"
     },
     {
       "source": "https://ublockorigin.pages.dev/thirdparties/easylist-newsletters.txt",
       "role": "dynamic",
-      "sha256": "b35c96c2a9328bfe29410aae734590de8da2b7a017678d57a40f80fe3da061e2"
+      "sha256": "46615007ade33c86b0111c51755a9029d5a2ed6ec57d8e9806514eed0d2dedf2"
     },
     {
       "source": "https://ublockorigin.pages.dev/thirdparties/easylist-notifications.txt",
@@ -435,7 +435,7 @@
     {
       "source": "List/domainset/speedtest.conf",
       "role": "history",
-      "sha256": "0aafbdd91e4d3fa6c6c3c6902da055073c9946f0e1c17d616ec565ed2626a2c0"
+      "sha256": "f88eb496af2b08df2904a8bfe30f6e7062d6073e28228861dc24b5d0996f49e5"
     },
     {
       "source": "RuleMesh code tree (a67aee2812a111d7da92ebd6ab36f6841a8177ec)",
@@ -1308,26 +1308,26 @@
     {
       "path": "Clash/domainset/reject.txt",
       "producer": "writer",
-      "size": 3401256,
-      "sha256": "ec5ef61e1190fd96d110fa293f5a27c70c605fc657bbcc2376a41a2001d306eb"
+      "size": 3405492,
+      "sha256": "daafc42f9d1083cb84bb52e7b31a54f5d3314b337e73b0494f694825bcabbe77"
     },
     {
       "path": "Clash/domainset/reject_extra.txt",
       "producer": "writer",
-      "size": 1622775,
-      "sha256": "727894f590de02ea4136f992ee1b649cd51b827b769f66a7bfe2b2eae526c2b8"
+      "size": 1626029,
+      "sha256": "1681706e4f7bfb7eeacaccbaf07111ea42617ba7ef9900431b2348b4027c644d"
     },
     {
       "path": "Clash/domainset/reject_phishing.txt",
       "producer": "writer",
-      "size": 3241510,
-      "sha256": "82275455e2a92f54330b74f65c9e2b70b8be9dc8a6757ccda57d9ffa915b4e5c"
+      "size": 3254725,
+      "sha256": "1dae40506d30e3acbf6eec6c9df060eab7dc23d24669b27b0940e82a578fae15"
     },
     {
       "path": "Clash/domainset/speedtest.txt",
       "producer": "writer",
-      "size": 89164,
-      "sha256": "6134a50a2ab6fb2112eaa321ec72961ad650839e4ea3106d1d518f391c60c13b"
+      "size": 89228,
+      "sha256": "a193ec51ec24b0d958f73e3a694f1985066b666ad2bcca56163fe30a4794ef58"
     },
     {
       "path": "Clash/domainset/spotify.txt",
@@ -1867,13 +1867,13 @@
       "path": "Internal/mtproto-dc-config.json",
       "producer": "writer",
       "size": 2737,
-      "sha256": "42de8f756cc6cd4ef4416b693a32f4ec3ff2913d45ddbca1a8999c383c4612cb"
+      "sha256": "863eceffbdeabfb36d1cbeefac97b8d101f568b79ffdf8318583e808ecfc58b9"
     },
     {
       "path": "Internal/reject-adguardhome.txt",
       "producer": "writer",
-      "size": 3606649,
-      "sha256": "19de05f75dc894850c48ab8bb8c250a1ea5578fa4a185ab543045bfb013a20ab"
+      "size": 3611072,
+      "sha256": "973dfc58b1a06697b900cd006118f8729ef8c6621afbdd037c8fbb489fb82fb3"
     },
     {
       "path": "Internal/rules/domainset/advertising.json",
@@ -2916,26 +2916,26 @@
     {
       "path": "List/domainset/reject.conf",
       "producer": "writer",
-      "size": 3257015,
-      "sha256": "a45cbfd821ae8f3b69b817e8e61953b5b3652cc972e9f4efe844a66ebff7d568"
+      "size": 3261064,
+      "sha256": "3d74725088ad3e6af6d57f73b250d270c05553ac6750ef41b62dbb5ef0b78add"
     },
     {
       "path": "List/domainset/reject_extra.conf",
       "producer": "writer",
-      "size": 1543753,
-      "sha256": "60904d5be8781cc9f3f8fdf1929d10fcc72ff0529d778455b77b6caa232b8ddf"
+      "size": 1546848,
+      "sha256": "44c16e9e1604cf08af98d614d32279c56b2ae5be255f32a86ae63100ae1173ba"
     },
     {
       "path": "List/domainset/reject_phishing.conf",
       "producer": "writer",
-      "size": 3100004,
-      "sha256": "fa2fc7140927d3b65e3ae3b2a3cb6f6478c511ee6a4571019868e7801a49e778"
+      "size": 3112895,
+      "sha256": "fc15a0857551b8ceef25b2faba4c3cd0347a31e0f2edc5f9576288aa143426bc"
     },
     {
       "path": "List/domainset/speedtest.conf",
       "producer": "writer",
-      "size": 89051,
-      "sha256": "f88eb496af2b08df2904a8bfe30f6e7062d6073e28228861dc24b5d0996f49e5"
+      "size": 89115,
+      "sha256": "161f0c28ec4afe1567f97352ea28f5922301719e88f496abd0fada9494e05828"
     },
     {
       "path": "List/domainset/spotify.conf",
@@ -3864,26 +3864,26 @@
     {
       "path": "Shadowrocket/domainset/reject.conf",
       "producer": "writer",
-      "size": 5147778,
-      "sha256": "e0c3e6d12cf561be2d1710a8eac843f452623fe440ed98cebb3a2d75c711dd7a"
+      "size": 5154258,
+      "sha256": "3a1a944e1ba6bf7e82b89a29f77d5e74dc3087296a8a6ee425231d9f36e65a4b"
     },
     {
       "path": "Shadowrocket/domainset/reject_extra.conf",
       "producer": "writer",
-      "size": 2577737,
-      "sha256": "aca1948879377d77e0a5fa2b4243773d8b2f9dd1124a10081e867f0e66c675c2"
+      "size": 2582899,
+      "sha256": "a11c4fd1c8771be21f3b0b04a807c8ff38d67dabb7a65838150f4bdc6714862d"
     },
     {
       "path": "Shadowrocket/domainset/reject_phishing.conf",
       "producer": "writer",
-      "size": 4946175,
-      "sha256": "d6882dbe7bd946a4c9e4bc25057ae5e8b47576dae0ba25db30b7b8d1743091e8"
+      "size": 4963278,
+      "sha256": "c13049399fa18da2b4433dad5a6a24ddf818033561192b244db14a5ce5760c96"
     },
     {
       "path": "Shadowrocket/domainset/speedtest.conf",
       "producer": "writer",
-      "size": 113956,
-      "sha256": "00bbef7cce01c89060fa2d4e7e995daba40398622a103acc7395772a1344d22e"
+      "size": 114034,
+      "sha256": "1eff05efbd506dca7053b0fa126ac1fb336b3b88f3f0b26e344f82cdf4debcb4"
     },
     {
       "path": "Shadowrocket/domainset/spotify.conf",
@@ -4896,26 +4896,26 @@
     {
       "path": "sing-box/domainset/reject.json",
       "producer": "writer",
-      "size": 4717673,
-      "sha256": "20691c5d49bedf6732d4ffb3603e5fa7c4463e457739f61cc7656117500c38a6"
+      "size": 4723592,
+      "sha256": "df6f82a7e6c801420065e8740d1bd65bed4e9ec522b581b262a29180996f5234"
     },
     {
       "path": "sing-box/domainset/reject_extra.json",
       "producer": "writer",
-      "size": 2337616,
-      "sha256": "438efa09fa614f856b4fbdd04e88334b74ddc0d58dd1c4ff033b23138a8b97d8"
+      "size": 2342301,
+      "sha256": "3fc67164351923ef952d1ecde5a6fdcd367eec269e9187f150f167d66600f2af"
     },
     {
       "path": "sing-box/domainset/reject_phishing.json",
       "producer": "writer",
-      "size": 4520153,
-      "sha256": "d1e794784c5ab43721ad64143b289daa3e36994db510f18c0b7706ddfcf4f502"
+      "size": 4536284,
+      "sha256": "172c2fdce6a1d06eba78f276f2a6a07f9ff9f34104bd9d8b81ecf573158967c8"
     },
     {
       "path": "sing-box/domainset/speedtest.json",
       "producer": "writer",
-      "size": 126660,
-      "sha256": "25485920e58458734aad818a3ef4c3db567e6266f6a34723a612dd53349dcd5f"
+      "size": 126746,
+      "sha256": "832d6777decb53e8699979adecebcad7419f51638f66d14d16f873d3a6736d05"
     },
     {
       "path": "sing-box/domainset/spotify.json",
