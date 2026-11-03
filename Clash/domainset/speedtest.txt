@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-11-02T13:33:05.912Z
-# Size: 3466
+# Last Updated: 2026-11-03T12:50:22.518Z
+# Size: 3468
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:qDl6g3n6R8ce_tK9Z2Bc50o14IHYPsVlTOdhY9Vg7C0$
+# $content-hash-v1$:tV8DDm_R8XZgiNP_-uuPoZDWYX_fTSSv3vLo54w3dKA$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -2161,6 +2161,7 @@ speedtest.embrasnet.com.br
 speedtest.empireaccess.com
 speedtest.fiberlink.com.pe
 speedtest.fiberlink.net.ua
+speedtest.geniusnetwork.in
 speedtest.gilarivertel.com
 speedtest.global-layer.com
 speedtest.grr1-mi.incx.net
@@ -2707,6 +2708,7 @@ speed-miss.systemlifeline.com
 speed.alliedcorporation.co.in
 speed.bitnettecnologia.com.br
 speed01.mil01.cmp.hb-bkbn.net
+speed1.supersonicinternet.com
 speednet-atn.brsserver.com.br
 speedtest-adl.optusnet.com.au
 speedtest-alm-nl.as215248.net
