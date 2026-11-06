@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-11-05T13:15:00.852Z
-# Size: 3472
+# Last Updated: 2026-11-06T12:59:06.820Z
+# Size: 3474
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:VnX7PbLXpfftTwdygh8eeEVIAZG6TT-6cuVUraaeKNM$
+# $content-hash-v1$:cU3rhuX2Zw-v_uO_l5GmacmfmE5j03oSAQIQApDv85g$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -1781,6 +1781,7 @@ speedtest.sunucum.net.tr
 speedtest.tcaexpress.net
 speedtest.te.citywest.ca
 speedtest.technofiber.co
+speedtest.tefenet.com.br
 speedtest.twinvalley.net
 speedtest.unifica.net.br
 speedtest.vanciscloud.nl
@@ -2746,6 +2747,7 @@ speedtest.citycom-austria.com
 speedtest.clicknconnect.co.in
 speedtest.drw2.launtel.net.au
 speedtest.fc-fra4.as51202.net
+speedtest.fenixtelecom.net.br
 speedtest.fibernetwork.com.br
 speedtest.fra1.hivelocity.net
 speedtest.heartland-fiber.com
