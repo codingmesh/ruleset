@@ -2,15 +2,30 @@
   "version": 2,
   "rules": [
     {
-      "domain": ["ruleset.marker.rulemesh.invalid", "servd-anthropic-website.b-cdn.net"],
+      "domain": [
+        "ruleset.marker.rulemesh.invalid",
+        "o1158394.ingest.us.sentry.io",
+        "browser-intake-us5-datadoghq.com",
+        "servd-anthropic-website.b-cdn.net",
+        "http-intake.logs.us5.datadoghq.com"
+      ],
       "domain_suffix": [
         "ruleset.marker.rulemesh.invalid",
+        "ant.dev",
         "clau.de",
         "claude.ai",
         "claude.app",
         "claude.com",
         "claude.dev",
+        "claude.new",
+        "claude.site",
+        "antspace.dev",
         "anthropic.com",
+        "anthropic.team",
+        "claudepages.dev",
+        "claudestudio.com",
+        "chatbotclaude.com",
+        "claudeacademy.com",
         "claudemcpclient.com",
         "claudemcpcontent.com",
         "claudeusercontent.com"

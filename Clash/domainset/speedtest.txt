@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-11-08T11:57:55.272Z
-# Size: 3483
+# Last Updated: 2026-11-10T08:03:09.970Z
+# Size: 3486
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:_G9sOgtwJ-tvx2gLN0A-iugFZCD98YUx6PtanmHgYck$
+# $content-hash-v1$:8uKknAMkHBoDfgSaoW7Odcn9L-dtDPEzpwBqwyCw8N8$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -248,6 +248,7 @@ speedmum.n-tel.in
 speedtest.23m.com
 speedtest.4isp.it
 speedtest.asvt.ru
+speedtest.bgsi.io
 speedtest.cfu.net
 speedtest.ddl.red
 speedtest.ddps.jp
@@ -2215,6 +2216,7 @@ speedtest.us.novoserve.com
 speedtest.us.openinfra.com
 speedtest.vacastelecom.net
 speedtest.vc.shawcable.net
+speedtest.vel.as205941.net
 speedtest.velosonet.com.br
 speedtest.vortexnetsol.com
 speedtest.wa.edgeix.net.au
@@ -2948,6 +2950,7 @@ speedtest.upw.vodafoneidea.com
 +.speedtest.vipnetconexao.com.br
 speedtest.visiontelecom.com.br
 speedtest.waveruralconnect.com
+speedtest.way2netbroadband.com
 speedtest.wb1.loopinternet.com
 speedtest.wtccommunications.ca
 speedtest01.netmountains.space
