@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-11-10T08:03:09.970Z
-# Size: 3486
+# Last Updated: 2026-11-11T12:45:15.642Z
+# Size: 3490
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:8uKknAMkHBoDfgSaoW7Odcn9L-dtDPEzpwBqwyCw8N8$
+# $content-hash-v1$:lN4W1UMA8csXHt6xfhdX91CXJUoOxCfg4KZQixaIu0M$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -2099,6 +2099,7 @@ speed-mix.dispaisy.systems
 speed.airwavesinternet.com
 speed.connextelecom.com.br
 speed.cyborgtelecom.com.br
+speed.isrcomunicaciones.es
 speed.matrixtelecon.com.br
 speed.vm.brs.marcusn.co.uk
 speedbodrum.fizynet.com.tr
@@ -2312,6 +2313,7 @@ h1-speedtest-ba.htelecom.es
 ham.wsqm.telekom-dienste.de
 hizbalikesir.durunet.com.tr
 hizgaziantep.durunet.com.tr
+ihgtelecom.brsserver.com.br
 ipl3pt.syd.ops.aspac.uu.net
 itanetwork.brsserver.com.br
 lax-cos2-ookla-1.99.network
@@ -2875,6 +2877,7 @@ mumbooklaspeed1.jioconnect.com
 nvmbooklaspeed1.jioconnect.com
 ookla-estepona.aerioncloud.com
 ooklaserver.asbn.va.ogital.net
+ooklaserver.atln.ga.ogital.net
 ooklaserver.dlls.tx.ogital.net
 seawa00-speedtest.etstelco.com
 seveninternet.brsserver.com.br
@@ -3432,6 +3435,7 @@ sfosj0096speedtestserver01.wiline.com
 sfosj0096speedtestserver02.wiline.com
 speedtest-eastburwood.optusnet.com.au
 speedtest-germany.veribarindir.com.tr
+speedtest-phoenix.resoundnetworks.com
 speedtest-sydney.macquarietelecom.com
 speedtest.fiberlinksolutionsltd.co.ke
 speedtest.mumbai.charotarbroadband.in
