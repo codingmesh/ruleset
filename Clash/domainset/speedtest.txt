@@ -1,7 +1,7 @@
 #########################################
 # Sukka's Ruleset - Speedtest Domains
-# Last Updated: 2026-11-18T14:03:04.386Z
-# Size: 3499
+# Last Updated: 2026-11-22T13:23:50.035Z
+# Size: 3506
 # License: AGPL 3.0
 # Homepage: https://codingmesh.github.io/ruleset/
 # GitHub: https://github.com/codingmesh/rulemesh
@@ -9,7 +9,7 @@
 #
 # This file contains common speedtest endpoints.
 #
-# $content-hash-v1$:wrUsfOauvMwjc-otFNbtUswqLfenyGfwBaRMAGccMpY$
+# $content-hash-v1$:RUs77Mo-a4t1X_3BLKRD7dbQwOCDFtIiiiMEMi5NsNE$
 #########################################
 ruleset.marker.rulemesh.invalid
 +.fast.com
@@ -303,6 +303,7 @@ ch1.chtm.hinet.net
 ds19.vipconnect.mx
 eregli.flix.net.tr
 fetkt1.seed.net.tw
+fetml1.seed.net.tw
 fetnt1.seed.net.tw
 fetsz1.seed.net.tw
 fetyl1.seed.net.tw
@@ -747,6 +748,7 @@ speedtest.nethiz.net
 speedtest.netpool.in
 speedtest.netrack.ru
 speedtest.oopaya.com
+speedtest.opiquad.it
 speedtest.quadro.net
 speedtest.quickqc.nl
 +.speedtest.railtel.in
@@ -950,6 +952,7 @@ speedtest.cvalley.net
 speedtest.dcsi.net.au
 speedtest.dimdams.com
 speedtest.duocast.net
+speedtest.edgefox.net
 speedtest.ediscom.net
 speedtest.elsynet.net
 speedtest.elxireit.in
@@ -1410,8 +1413,10 @@ ookla.soc.atharva.co.id
 ookla.speedtest.cnix.cn
 perf-01.ixn.as42689.net
 prescott1.cabospeed.com
+seednet-hc1.seed.net.tw
 seednet-tc1.seed.net.tw
 seednet-tn1.seed.net.tw
+seednet-tp1.seed.net.tw
 seednet-ty1.seed.net.tw
 sp-chi-01.ezeefiber.net
 sp-sea-01.ezeefiber.net
@@ -1666,6 +1671,7 @@ ooklaspdtstsvr.zitel.com
 reflector.aberythmic.com
 riorancho1.cabospeed.com
 seacaftest.aptalaska.net
+seednet-ntp2.seed.net.tw
 sg-speedtest.fast.net.id
 siouxcity1.cabospeed.com
 sirsa.softechinfosol.com
@@ -2327,6 +2333,7 @@ madvpdspeedtesta.voiped.com
 mars-speedtest.guzel.net.tr
 mia-eqx1-ookla-1.99.network
 mib-rst-sp1.mibroadband.com
+msk.speedtest.reynard.cloud
 mspeedtest.linkceara.com.br
 nets-mad01.servihosting.net
 ny00svp-speed11.svc.tds.net
